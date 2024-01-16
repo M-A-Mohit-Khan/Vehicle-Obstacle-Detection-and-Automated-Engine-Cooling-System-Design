@@ -41,4 +41,4 @@ safety and comfort.
 
 
 ## CIRCUIT DIAGRAM
-![App Screenshot](https://drive.google.com/file/d/1lfg9SK0GNTUQnLvFcoSxhGGS0R_TSC-Z/view)
+![Circuit diagram](https://drive.google.com/uc?export=view&id=1lfg9SK0GNTUQnLvFcoSxhGGS0R_TSC-Z)
